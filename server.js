@@ -1,4 +1,4 @@
-
+global.PROJECT_NAME = 'etsy-react-fullstack-clone'
 
 if (!global.PROJECT_NAME) { //« set by npm run init-dev »
 	throw new Error('no project name set. did you forget to run "npm run init-dev"?')
